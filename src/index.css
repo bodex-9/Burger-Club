@@ -1,0 +1,51 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta:wght@100..900&display=swap');
+
+
+*
+{
+
+  box-sizing: border-box;
+ 
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body
+{
+  background:#12372A;
+  font-family: "Lexend Zetta", sans-serif;
+     
+  
+}
+.feat,
+.test,
+.logo{
+  color:#FBFADA;
+}
+
+.btn
+{
+  background:#f97316; 
+}
+.footup
+{
+  background: #e5ebe3;
+}
+.name{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 350px;
+  font-size: 15px;
+}
+li{
+  list-style: none;
+}
+.navv li{
+  color:#FBFADA;
+  background: ;
+  
+}
