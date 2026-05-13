@@ -1,5 +1,7 @@
 # 🍔 Burger Club
 
+<img width="1899" height="1059" alt="Screenshot 2026-05-13 043937" src="https://github.com/user-attachments/assets/88091b78-e379-4985-8183-03a0770745cd" />
+
 A modern and responsive restaurant web application built with React. **Burger Club** allows users to browse menu items, search by name, add items to cart, and place online orders. It also includes a table reservation system for customers.
 
 ---
@@ -35,11 +37,6 @@ A modern and responsive restaurant web application built with React. **Burger Cl
 ## 🌐 Live Demo
 
 urlBurger Club Live Demo[https://clever-speculoos-3e81e8.netlify.app/]
-
----
-
-## 📸 Screenshot
-<img width="1899" height="1059" alt="Screenshot 2026-05-13 043937" src="https://github.com/user-attachments/assets/88091b78-e379-4985-8183-03a0770745cd" />
 
 ---
 
