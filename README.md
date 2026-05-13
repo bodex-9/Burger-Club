@@ -1,16 +1,96 @@
-# React + Vite
+# 🍔 Burger Club
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive restaurant web application built with React. **Burger Club** allows users to browse menu items, search by name, add items to cart, and place online orders. It also includes a table reservation system for customers.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+* 🍽️ Online food ordering system
+* 🪑 Table reservation feature
+* 🛒 Shopping cart (add / remove items)
+* 🔎 Search food items by name
+* ⚡ Smooth animations using Framer Motion
+* 🔄 State management with Redux Toolkit
+* ⏳ Async actions using createAsyncThunk
+* 🎨 Modern responsive UI with Tailwind CSS
+* 🔔 Alerts and notifications using SweetAlert2
+* 📡 Mock API integration for data fetching
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React.js
+* Vite
+* Tailwind CSS
+* Redux Toolkit
+* createAsyncThunk
+* Framer Motion
+* SweetAlert2
+* MockAPI
+
+---
+
+## 🌐 Live Demo
+
+urlBurger Club Live Demo[https://clever-speculoos-3e81e8.netlify.app/](https://clever-speculoos-3e81e8.netlify.app/)
+
+---
+
+## 📸 Screenshot
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+ ├── assets/
+ ├── components/
+ ├── RTK/
+ │    └── slices/
+ ├── pages/
+ ├── App.jsx
+ ├── main.jsx
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/burger-club.git
+```
+
+Go to project folder:
+
+```bash
+cd burger-club
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 👨‍💻 Author
+
+Created by Abdullah Mhrous.
+
+---
+
+## ⭐ Support
+
+If you like this project, give it a star on GitHub ⭐
