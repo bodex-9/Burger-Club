@@ -34,7 +34,7 @@ A modern and responsive restaurant web application built with React. **Burger Cl
 
 ## 🌐 Live Demo
 
-urlBurger Club Live Demo[https://clever-speculoos-3e81e8.netlify.app/](https://clever-speculoos-3e81e8.netlify.app/)
+urlBurger Club Live Demo[https://clever-speculoos-3e81e8.netlify.app/]([https://clever-speculoos-3e81e8.netlify.app/](https://clever-speculoos-3e81e8.netlify.app/))
 
 ---
 
