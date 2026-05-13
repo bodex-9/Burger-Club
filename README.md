@@ -39,6 +39,7 @@ A modern and responsive restaurant web application built with React. **Burger Cl
 ---
 
 ## 📸 Screenshot
+<img width="1899" height="1059" alt="Screenshot 2026-05-13 043937" src="https://github.com/user-attachments/assets/88091b78-e379-4985-8183-03a0770745cd" />
 
 ---
 
