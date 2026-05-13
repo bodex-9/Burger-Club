@@ -1,16 +1,22 @@
 
-import { useDispatch,useSelector } from 'react-redux'
+import { useSelector } from 'react-redux'
 import { deleteCart } from './RTK/Slices/cartSlice';
 import { Clear } from './RTK/Slices/cartSlice';
 import { increment} from './RTK/Slices/cartSlice';
 import { decrement } from './RTK/Slices/cartSlice';
 import { useNavigate } from 'react-router-dom';
+import { useDispatch } from 'react-redux';
 const Cart = ({isopen, setisopen}) => {
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const cartIt = useSelector(state => state.Cart)
 
 
+const handlecheckout = ()=>
+{
+setisopen(false);
+navigate('/check')
+}
   
 
 
@@ -81,7 +87,7 @@ const Cart = ({isopen, setisopen}) => {
           </div>
         
           <div className="border-t pt-4">
-            <button onClick={() => navigate('/check')} className="w-full bg-black text-white py-3 rounded-lg font-semibold hover:bg-gray-800">
+            <button onClick={() => handlecheckout()} className="w-full hover:cursor-pointer bg-black text-white py-3 rounded-lg font-semibold hover:bg-gray-800">
               Checkout
             </button>
           </div>
