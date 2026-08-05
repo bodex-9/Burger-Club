@@ -5,7 +5,7 @@ import shadow from "./../../assets/shadow.png";
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { useDispatch } from 'react-redux';
-import { addCart } from '../../RTK/Slices/cartSlice';
+import { addCart } from '../../RTK/Slices/cartslice';
 import Swal from 'sweetalert2';
 
 const Home = () => {
