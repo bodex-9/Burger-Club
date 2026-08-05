@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { useDispatch } from 'react-redux';
-import { addCart } from './RTK/Slices/cartSlice';
+import { addCart } from './RTK/Slices/cartslice';
 import Navbar from './components/hero_page/navbar';
 import { useLocation } from 'react-router-dom';
 import { useSelector } from 'react-redux';

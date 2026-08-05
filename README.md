@@ -1,16 +1,116 @@
-# React + Vite
+# 🍔 Burger Club
+<img width="1900" height="895" alt="rest" src="https://github.com/user-attachments/assets/1a09f63d-1fe3-45de-88e8-a8c6d1b8b30a" />
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+A modern and responsive burger restaurant website built with **React** and **Tailwind CSS**. The project provides an attractive user interface for showcasing menu items, promotions, and restaurant information while delivering a smooth user experience across all devices.
 
-## React Compiler
+## 🚀 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Demo:** *Add your deployed website link here*
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*Add a screenshot of the homepage here.*
+
+---
+
+## ✨ Features
+
+* 🍔 Modern and clean restaurant landing page
+* 📱 Fully responsive design
+* ⚡ Fast performance with React
+* 🎨 Beautiful UI built with Tailwind CSS
+* 🧭 Smooth navigation between sections
+* 📋 Menu and featured food items
+* 📍 Contact and restaurant information
+
+---
+
+## 🛠️ Technologies Used
+
+* React
+* JavaScript (ES6+)
+* Tailwind CSS
+* Vite
+
+---
+
+## 📂 Project Structure
+
+```text
+Burger-Club/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   ├── pages/
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/bodex-9/Burger-Club.git
+```
+
+Navigate to the project folder:
+
+```bash
+cd Burger-Club
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📖 Usage
+
+Open your browser and visit:
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 🎯 Future Improvements
+
+* Online ordering system
+* Shopping cart functionality
+* Authentication
+* Payment integration
+* Dark mode
+* Backend integration with API
+
+---
+
+## 👨‍💻 Author
+
+**Abdullah Mhrous**
+
+* GitHub: https://github.com/bodex-9
+* LinkedIn: https://www.linkedin.com/in/abdullah-mhrous-70805a389
+
+---
+
+## ⭐ Support
+
+If you like this project, don't forget to give it a **Star ⭐** on GitHub.

@@ -2,7 +2,7 @@ import { useState } from "react";
 import Swal from "sweetalert2";
 import { useSelector } from "react-redux";
 import { useDispatch } from "react-redux";
-import { Clear } from "./RTK/Slices/cartSlice";
+import { Clear } from "./RTK/Slices/cartslice";
 const Checkout = () => {
 const cartit = useSelector(state => state.Cart);
 const dispatch = useDispatch()
