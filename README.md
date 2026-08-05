@@ -1,5 +1,5 @@
 # 🍔 Burger Club
-![Uploading rest.png…]()
+![Burger Club Preview](./public/projects/burger-club.png)
 
 
 A modern and responsive burger restaurant website built with **React** and **Tailwind CSS**. The project provides an attractive user interface for showcasing menu items, promotions, and restaurant information while delivering a smooth user experience across all devices.
